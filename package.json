@@ -1,0 +1,31 @@
+{
+  "name": "token-polaris-collector",
+  "version": "1.0.0",
+  "description": "Collect and organize token-related data with Polaris Collector, offering data aggregation and storage capabilities.",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/mysticamelda/token-polaris-collector"
+  },
+  "author": "mysticamelda",
+  "license": "MIT",
+  "dependencies": {
+    "token-polaris-tracker": "1.0.0",
+    "token-polaris-collector": "1.0.0",
+    "ipfs-http-client": "1.0.0",
+    "request": "1.0.0",
+    "react-redux": "1.0.0",
+    "cheerio": "1.0.0",
+    "async": "1.0.0",
+    "web3-utils": "1.0.0",
+    "commander": "1.0.0",
+    "redux": "1.0.0",
+    "ethereumjs-tx": "1.0.0",
+    "sequelize": "1.0.0",
+    "solc": "1.0.0",
+    "web3": "1.0.0"
+  }
+}
